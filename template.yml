@@ -1,0 +1,19 @@
+name: Template format
+description: Empty ruleset template - copy this file then create your format rules.
+manager:
+rules: # rules for explicit inclusion or exclusion
+  includeOnly:
+    setTypes: [] # 'Large' for all primary pack-based sets, or 'Small' for all campaigns and bundle sets
+    sets: [] # list of set names
+    cardTypes: [] # Power, Unit, Spell, Fast Spell, Weapon, Relic Weapon, Relic, Curse, Cursed Relic, Site
+    rarities: [] # Common, Uncommon, Rare, Legendary, Promo
+    cards: [] # list of card names
+  excludeAll:
+    setTypes: []
+    sets: []
+    cardTypes: []
+    rarities: []
+    cards: []
+  overrides: # allow/ban exceptions to the above rules
+    allowed: [] # list of card names
+    banned: []

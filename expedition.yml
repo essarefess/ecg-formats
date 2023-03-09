@@ -1,0 +1,429 @@
+name: Expedition
+description: Official game format - cards from the most recent sets, plus select cards from the Expedition Vault.
+manager: DWD
+rules:
+  includeOnly:
+    sets:
+      - Unleashed
+      - Enter the Arcanum
+      - Behemoths of Thera
+  overrides:
+    allowed:
+    # Expedition Vault
+      - Char
+      - Firemane Cub
+      - Forge Wolf
+      - Iceberg Frontrunner
+      - Ticking Grenadin
+      - Blazing Renegade
+      - Breath of Voprex
+      - Daring Maneuver
+      - Kaleb's Favor
+      - Miner's Musket
+      - Piercing Shot
+      - Pyre Adept
+      - Rampage
+      - Smith's Hammer
+      - Sol's Fury
+      - Censari Brigand
+      - Granite Acolyte
+      - Oni Quartermaster
+      - Rally
+      - Rebel Sharpshooter
+      - Tumblebang
+      - Centaur Outrider
+      - Magma Javelin
+      - Morningstar
+      - Outlands Sniper
+      - Recogulator
+      - Reforge
+      - Steelfang Chakram
+      - Warhorn
+      - Centaur Raidleader
+      - Dusthoof Brawler
+      - Flash Fire
+      - General Izalio
+      - Shingane Captain
+      - Stonescar Maul
+      - Worldpyre Phoenix
+      - Improvised Rubbler
+      - Kaleb, Claimless
+      - Steelbound Dragon
+      - Copper Conduit
+      - Fresh Recruit
+      - Humbug
+      - Predator's Instinct
+      - Silence
+      - Accelerate
+      - Amber Lock
+      - Apprentice Mage
+      - Bold Adventurer
+      - Locust
+      - Talir's Favored
+      - Teleport
+      - Ageless Mentor
+      - Amber Acolyte
+      - Dashing Scoundrel
+      - Dispel
+      - Dune Phantom
+      - Humbug Nest
+      - Oasis Sanctuary
+      - Reliquary Raider
+      - Scorpion Wasp
+      - Secret Pages
+      - Unlock Potential
+      - Wurmcalling
+      - Ancient Lore
+      - Bolster
+      - Healer's Cloak
+      - Horned Vorlunk
+      - Insatiable Serasaur
+      - Marisen's Disciple
+      - Steward of Prophecy
+      - Timekeeper
+      - Towertop Patrol
+      - Xenan Guardian
+      - Confiscate
+      - Horn of Plenty
+      - Lumen Defender
+      - Praxis Displacer
+      - Towering Terrazon
+      - Predatory Carnosaur
+      - Temple Captain
+      - Tomb Protector
+      - Talir, Timeless
+      - Belching Behemoth
+      - Blurred Stygimoloch
+      - Detain
+      - Elder's Feather
+      - Ensnare
+      - Finest Hour
+      - Oni Samurai
+      - Steadfast Deputy
+      - Tinker Apprentice
+      - Argenport Soldier
+      - Crownwatch Longsword
+      - Crownwatch Paladin
+      - Fall Short
+      - Minotaur Grunt
+      - Rebuke
+      - Rolant's Favor
+      - Talon of Nostrix
+      - Auric Sentry
+      - Brightmace Paladin
+      - Emerald Acolyte
+      - Hero of the People
+      - Loyal Watchwing
+      - Spire Chaplain
+      - Treasury Guard
+      - Armorsmith
+      - Copperhall Recruit
+      - Crownwatch Cavalry
+      - Mantle of Justice
+      - Offbook Officer
+      - Hooru Fledgling
+      - Mithril Mace
+      - Silverwing Commander
+      - Challenge by Law
+      - Crownwatch Captain
+      - Fourth-Tree Elder
+      - Heirloom Blade
+      - Rolant's Honor Guard
+      - Town Watchman
+      - Valkyrie Wings
+      - Rolant, Merciless
+      - Cloudsnake Hatchling
+      - Permafrost
+      - Powderglider
+      - Backlash
+      - Campfire Watchman
+      - Eilyn's Favor
+      - Lightning Strike
+      - Master Cartographer
+      - Scaly Gruan
+      - Violent Gust
+      - Whispering Wind
+      - Wild Cloudsnake
+      - Cobalt Acolyte
+      - Cobalt Ring
+      - Ice Sprite
+      - Icebow
+      - Polymorph
+      - Thunderbird
+      - Tundra Explorer
+      - Wild Rider
+      - Wisdom of the Elders
+      - Jarrall's Frostkin
+      - Rain of Frogs
+      - Stormcaller
+      - Torgov, Icecap Trader
+      - Windshaper
+      - Crystallize
+      - Primal Incarnation
+      - Skycrag Wyvarch
+      - Staff of Stories
+      - Ancient Serpent
+      - Eilyn's Frostrider
+      - Hatchery Hunter
+      - Sapphire Dragon
+      - Shaluuk Captain
+      - Araktodon
+      - Eilyn, Fearless
+      - Channel the Tempest
+      - Direfang Spider
+      - Ghostform
+      - Grenamender
+      - Pilfer
+      - Sabotage
+      - Cabal Cutthroat
+      - Cull the Deck
+      - Dark Wisp
+      - Devour
+      - Lurking Brute
+      - Scavenging Vulture
+      - Vampire Bat
+      - Vara's Favor
+      - Amethyst Acolyte
+      - Blackguard Sidearm
+      - Devastating Setback
+      - Devouring Shadow
+      - Execute
+      - Mug
+      - Ravenous Thornbeast
+      - Back-Alley Bouncer
+      - Blood of Makkar
+      - Devious Drone
+      - Impending Doom
+      - Lethrai Falchion
+      - Minotaur Lighthoof
+      - Soul Collector
+      - Steward of the Past
+      - Ashara, the Deadshot
+      - Lurking Sanguar
+      - Auric Captain
+      - Cut Ties
+      - Direwood Rampager
+      - Horsesnatcher Bat
+      - Spirit Drain
+      - Vara, Limitless
+      - Seat of Impulse
+      - Talir's Choice
+      - Seat of Glory
+      - Rakano Artisan
+      - Longhorn Sergeant
+      - Renegade Valkyrie
+      - Tinker Dronedropper
+      - Seat of Fury
+      - Hunter's Harpoon
+      - Seat of Chaos
+      - Combust
+      - Obsidian Golem
+      - Seat of Progress
+      - Auric Record Keeper
+      - Combrei Healer
+      - Copperhall Elite
+      - Karmic Guardian
+      - Penitent Bull
+      - Seat of Wisdom
+      - Storm Lynx
+      - Twinning Ritual
+      - Hunting Pteriax
+      - Seat of Mystery
+      - Nahid's Faithful
+      - Seat of Order
+      - Duelist's Blade
+      - Seat of Vengeance
+      - Slay
+      - Seat of Cunning
+      - Trickster's Cloak
+      - Withering Witch
+      - Seek Power
+    # Unleashed reprints
+      - Drifter
+      - Feed the Flames
+      - Ankle Cutter
+      - Breath of Voprex
+      - Factory Quota
+      - Rebel Sharpshooter
+      - Twinbarrel
+      - Criva, the Crimson Scythe
+      - Djang-li, the Misfit
+      - Iceberg Scattershot
+      - Flamestoker
+      - Hellfire Rifle
+      - Stonescar Maul
+      - Sindok, Rage Incarnate
+      - Lucky Prospector
+      - Randori
+      - Decay
+      - Ancient Lore
+      - Lumen Reclaimer
+      - Steward of Prophecy
+      - Stinging Wind
+      - Vault of the Praxis
+      - Viper's Bite
+      - Alhed, Mount Breaker
+      - Towering Terrazon
+      - Mountain Goliath
+      - Valkyrie Aspirant
+      - Reinvigorate
+      - Tinker Overseer
+      - Vanquish
+      - Covenant Peacekeeper
+      - Hero of the People
+      - Saddle Up
+      - Soothing Shortbeak
+      - Copperhall Recruit
+      - Sharp Tactician
+      - Crown of Authority
+      - Savior of the Meek
+      - Backlash
+      - Borderlands Waykeeper
+      - Honored Skyguard
+      - Scaly Gruan
+      - Stormtamer Operative
+      - Wild Cloudsnake
+      - Forlorn Gryffyn
+      - Breeze Dancer
+      - Reverberating Strike
+      - Big Brother
+      - Crystallize
+      - Jotun Warrior
+      - Psionic Savant
+      - Icequake
+      - Shadowfang Valkyrie
+      - Pilfer
+      - Auren Taxation
+      - Cat Burglar
+      - Blood of Makkar
+      - Consuming Greed
+      - Fangs in the Dark
+      - Nullblade
+      - Steward of the Past
+      - Elder Astrologer
+      - Repulsive Gorger
+      - The Witching Hour
+      - Monolith Guardian
+      - Unlock the Vault
+      - Bulletshaper
+      - Field Captain
+      - Calderan Cradle
+      - Hunter's Harpoon
+      - Treachery
+      - Stonescar Leviathan
+      - Combrei Healer
+      - Stronghold's Visage
+      - Call the Ancients
+      - Majestic Skies
+      - Shadowlands Bonepicker
+      - Siphon Vitality
+      - Electrostatic Distortion
+      - Highwind Glider
+      - Streetwise Informant
+      - Unseen Execution
+      - Twilight Raptor
+      - Spell Swipe
+      - Snipe
+      - Unity Within
+      - Disrupt
+      - Makeshift Barrier
+      - Tools of Oppression
+    # Behemoths of Thera reprints
+      - Kennelmaster
+      - Pyroknight
+      - Ruin
+      - Bladekin Apprentice
+      - Yeti Cookmaster
+      - Granite Acolyte
+      - Dramatist's Mask
+      - Reforge
+      - Ashen Snakepit
+      - Obliterate
+      - Crowd Favorite
+      - Flamestoker
+      - Worldpyre Phoenix
+      - Magmatic Sentinel
+      - Lavablood Goliath
+      - Oasis Seeker
+      - Teacher of Humility
+      - Amber Acolyte
+      - Dawnwalker
+      - Lastlight Infusion
+      - Lunar Magus
+      - Moondial
+      - Shepherd's Horn
+      - Lumen Reclaimer
+      - Wurmstone
+      - First Watch
+      - Striking Snake Formation
+      - Invoke the Waystones
+      - Lumen Shepherd
+      - Marisen's Legacy
+      - Ravid, Insect Master
+      - Barricade
+      - Paladin Oathbook
+      - Strength of Many
+      - Emerald Acolyte
+      - Kosul Battlemage
+      - Spire Chaplain
+      - Treasury Gate
+      - Auric Weaponsmith
+      - Entrapment
+      - Geomar, the Steel Tempest
+      - Kosul Curator
+      - Augmented Form
+      - Challenge by Law
+      - Fourth-Tree Elder
+      - Heirloom Blade
+      - Martyr's Chains
+      - Blind Storyteller
+      - Formbend
+      - Runic Transformation
+      - Lightning Strike
+      - Read the Stars
+      - Tormented Crown
+      - Winter's Grasp
+      - Cobalt Acolyte
+      - Lethrai Darkstalker
+      - Misthelm
+      - Icicle Marksman
+      - Crackling Bauble
+      - Icequake
+      - Mistveil Drake
+      - Quicksilver Mirror
+      - Solar Blast
+      - Bloodseeker
+      - Horrifying Helm
+      - Malaise
+      - Amethyst Acolyte
+      - Desperado
+      - Devastating Setback
+      - Extinguish
+      - Wingbrewer
+      - Burglarize
+      - Soul Collector
+      - Induce Madness
+      - Ambitious Mandevilla
+      - Horsesnatcher Bat
+      - Midnight Hunter
+      - Noxious Wyvarch
+      - Encroaching Darkness
+      - Champion of Impulse
+      - Rakano Cylix
+      - Champion of Glory
+      - Skycrag Cylix
+      - Champion of Fury
+      - Champion of Chaos
+      - Champion of Progress
+      - Elysian Cylix
+      - Champion of Wisdom
+      - Xenan Cylix
+      - Champion of Mystery
+      - Champion of Order
+      - Argenport Cylix
+      - Champion of Vengeance
+      - Champion of Cunning
+      - Veteran Strategist
+      - Rotorcycle
+      - Travelers' Fair
+      - Rumbling Contraption

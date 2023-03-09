@@ -1,0 +1,41 @@
+name: Peasant
+description: Community format - commons & uncommons only, no small sets. A small ban list for balance.
+manager: Peasant Eternal tournament series (Noverb)
+rules:
+  includeOnly:
+    setTypes:
+      - Large
+    rarities:
+      - Common
+      - Uncommon
+  overrides:
+    banned:
+      # Invoke cards
+      - Fire Conjuring
+      - Wind Conjuring
+      - Earth Conjuring
+      - Water Conjuring
+      - Pack Conjuring
+      - Ramba's Challenge
+      - Free Fire
+      - Frostburn
+      - Wrong Turn
+      - Pull From Duty
+      - Curiox's Hunt
+      - Midnight Disappearance
+      - Icy Hold
+      - Stolen Augmentation
+      - Sweet Dreams
+      # Other random transforms/creates that may make higher rarities
+      - Bang, Sheriff of Dunehill
+      - Valley Whisperer
+      - Rivet's Wrench
+      - Aerial Deployment
+      - Air Support
+      - Good Idea at the Time
+      - Unstable Form
+      - Fluctuate Reality
+      - Jotun Runt
+      - Open Your Eyes
+      - Elysian Blueprints
+      - Skycrag Blueprints

@@ -1,0 +1,66 @@
+name: Pauper
+description: Community format - commons only, except uncommon Power cards are allowed.
+manager: Ooze Cup tournament series (Kasendrith)
+rules:
+  includeOnly:
+    setTypes:
+      - Large
+    rarities:
+      - Common
+  overrides:
+    allowed:
+      # Large sets' uncommon Power
+      - Granite Monument
+      - Amber Monument
+      - Emerald Monument
+      - Cobalt Monument
+      - Amethyst Monument
+      - Shugo Standard
+      - Temple Standard
+      - Crownwatch Standard
+      - Clan Standard
+      - Cabal Standard
+      - Seat of Impulse
+      - Seat of Glory
+      - Seat of Fury
+      - Seat of Chaos
+      - Seat of Progress
+      - Seat of Wisdom
+      - Seat of Mystery
+      - Seat of Order
+      - Seat of Vengeance
+      - Seat of Cunning
+      - Praxis Insignia
+      - Rakano Insignia
+      - Skycrag Insignia
+      - Stonescar Insignia
+      - Combrei Insignia
+      - Elysian Insignia
+      - Xenan Insignia
+      - Hooru Insignia
+      - Argenport Insignia
+      - Feln Insignia
+      - Praxis Vow
+      - Stonescar Vow
+      - Combrei Vow
+      - Hooru Vow
+      - Feln Vow
+      - Praxis Painting
+      - Stonescar Painting
+      - Combrei Painting
+      - Hooru Painting
+      - Feln Painting
+      - Praxis Tome
+      - Rakano Tome
+      - Skycrag Tome
+      - Stonescar Tome
+      - Combrei Tome
+      - Elysian Tome
+      - Xenan Tome
+      - Hooru Tome
+      - Argenport Tome
+      - Feln Tome
+      - Diplomatic Seal
+      - Common Cause
+      - Sacred Seal
+      - Midnight Reprieve
