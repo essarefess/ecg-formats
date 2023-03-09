@@ -14,7 +14,7 @@ Before configuring the rules, a few fields provide meta info about the format:
 ```yml
 name: Some Format
 description: Info about the format.
-manager: What this format is for (ex. tournament series) / who maintains its rules.
+manager: Who maintains these rules.
 ```
 
 Format rules are defined by a combination of fields to explicity include or exclude based on their traits (set, card type, rarity, specific names), as well as overrides to those rules:
