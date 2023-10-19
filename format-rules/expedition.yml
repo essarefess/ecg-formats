@@ -4,10 +4,9 @@ manager: DWD
 rules:
   includeOnly:
     sets:
-      - Unleashed
-      - Enter the Arcanum
       - Behemoths of Thera
       - The Devouring
+      - Battle Lines
   overrides:
     allowed:
     # Expedition Vault
@@ -20,19 +19,20 @@ rules:
       - Breath of Voprex
       - Daring Maneuver
       - Kaleb's Favor
-      - Miner's Musket
       - Piercing Shot
       - Pyre Adept
       - Rampage
       - Smith's Hammer
       - Sol's Fury
-      - Censari Brigand
+      - Yeti Sage
+      - Gold Mine
       - Granite Acolyte
       - Oni Quartermaster
       - Rally
       - Rebel Sharpshooter
       - Tumblebang
       - Centaur Outrider
+      - Criva, the Crimson Scythe
       - Magma Javelin
       - Morningstar
       - Outlands Sniper
@@ -44,13 +44,11 @@ rules:
       - Dusthoof Brawler
       - Flash Fire
       - General Izalio
-      - Shingane Captain
       - Stonescar Maul
       - Worldpyre Phoenix
       - Improvised Rubbler
       - Kaleb, Claimless
       - Steelbound Dragon
-      - Copper Conduit
       - Fresh Recruit
       - Humbug
       - Predator's Instinct
@@ -58,18 +56,20 @@ rules:
       - Accelerate
       - Amber Lock
       - Apprentice Mage
+      - Bazaar Trickster
       - Bold Adventurer
       - Locust
       - Talir's Favored
       - Teleport
       - Ageless Mentor
       - Amber Acolyte
-      - Dashing Scoundrel
       - Dispel
       - Dune Phantom
       - Humbug Nest
+      - Meditative Trance
       - Oasis Sanctuary
       - Reliquary Raider
+      - Sandspitter
       - Scorpion Wasp
       - Secret Pages
       - Unlock Potential
@@ -90,7 +90,6 @@ rules:
       - Praxis Displacer
       - Towering Terrazon
       - Predatory Carnosaur
-      - Temple Captain
       - Tomb Protector
       - Talir, Timeless
       - Belching Behemoth
@@ -104,9 +103,10 @@ rules:
       - Tinker Apprentice
       - Argenport Soldier
       - Crownwatch Longsword
-      - Crownwatch Paladin
       - Fall Short
       - Minotaur Grunt
+      - Paladin Oathbook
+      - Protect
       - Rebuke
       - Rolant's Favor
       - Talon of Nostrix
@@ -126,7 +126,6 @@ rules:
       - Mithril Mace
       - Silverwing Commander
       - Challenge by Law
-      - Crownwatch Captain
       - Fourth-Tree Elder
       - Heirloom Blade
       - Rolant's Honor Guard
@@ -134,11 +133,12 @@ rules:
       - Valkyrie Wings
       - Rolant, Merciless
       - Cloudsnake Hatchling
-      - Permafrost
+      - Formbend
       - Powderglider
       - Backlash
       - Campfire Watchman
       - Eilyn's Favor
+      - Lightning Storm
       - Lightning Strike
       - Master Cartographer
       - Scaly Gruan
@@ -167,7 +167,6 @@ rules:
       - Eilyn's Frostrider
       - Hatchery Hunter
       - Sapphire Dragon
-      - Shaluuk Captain
       - Araktodon
       - Eilyn, Fearless
       - Channel the Tempest
@@ -186,7 +185,6 @@ rules:
       - Vara's Favor
       - Amethyst Acolyte
       - Blackguard Sidearm
-      - Devastating Setback
       - Devouring Shadow
       - Execute
       - Mug
@@ -200,20 +198,20 @@ rules:
       - Soul Collector
       - Steward of the Past
       - Ashara, the Deadshot
+      - Elder Astrologer
       - Lurking Sanguar
-      - Auric Captain
       - Cut Ties
       - Direwood Rampager
       - Horsesnatcher Bat
+      - Noxious Wyvarch
       - Spirit Drain
       - Vara, Limitless
       - Seat of Impulse
-      - Talir's Choice
+      - Purify
       - Seat of Glory
       - Rakano Artisan
       - Longhorn Sergeant
       - Renegade Valkyrie
-      - Tinker Dronedropper
       - Seat of Fury
       - Hunter's Harpoon
       - Seat of Chaos
@@ -221,7 +219,6 @@ rules:
       - Obsidian Golem
       - Seat of Progress
       - Auric Record Keeper
-      - Combrei Healer
       - Copperhall Elite
       - Karmic Guardian
       - Penitent Bull
@@ -230,105 +227,16 @@ rules:
       - Twinning Ritual
       - Hunting Pteriax
       - Seat of Mystery
-      - Nahid's Faithful
+      - Blistersting Wasp
       - Seat of Order
       - Duelist's Blade
       - Seat of Vengeance
-      - Slay
+      - Lost Scroll
       - Seat of Cunning
       - Trickster's Cloak
       - Withering Witch
       - Seek Power
-    # Unleashed reprints
-      - Drifter
-      - Feed the Flames
-      - Ankle Cutter
-      - Breath of Voprex
-      - Factory Quota
-      - Rebel Sharpshooter
-      - Twinbarrel
-      - Criva, the Crimson Scythe
-      - Djang-li, the Misfit
-      - Iceberg Scattershot
-      - Flamestoker
-      - Hellfire Rifle
-      - Stonescar Maul
-      - Sindok, Rage Incarnate
-      - Lucky Prospector
-      - Randori
-      - Decay
-      - Ancient Lore
-      - Lumen Reclaimer
-      - Steward of Prophecy
-      - Stinging Wind
-      - Vault of the Praxis
-      - Viper's Bite
-      - Alhed, Mount Breaker
-      - Towering Terrazon
-      - Mountain Goliath
-      - Valkyrie Aspirant
-      - Reinvigorate
-      - Tinker Overseer
-      - Vanquish
-      - Covenant Peacekeeper
-      - Hero of the People
-      - Saddle Up
-      - Soothing Shortbeak
-      - Copperhall Recruit
-      - Sharp Tactician
-      - Crown of Authority
-      - Savior of the Meek
-      - Backlash
-      - Borderlands Waykeeper
-      - Honored Skyguard
-      - Scaly Gruan
-      - Stormtamer Operative
-      - Wild Cloudsnake
-      - Forlorn Gryffyn
-      - Breeze Dancer
-      - Reverberating Strike
-      - Big Brother
-      - Crystallize
-      - Jotun Warrior
-      - Psionic Savant
-      - Icequake
-      - Shadowfang Valkyrie
-      - Pilfer
-      - Auren Taxation
-      - Cat Burglar
-      - Blood of Makkar
-      - Consuming Greed
-      - Fangs in the Dark
-      - Nullblade
-      - Steward of the Past
-      - Elder Astrologer
-      - Repulsive Gorger
-      - The Witching Hour
-      - Monolith Guardian
-      - Unlock the Vault
-      - Bulletshaper
-      - Field Captain
-      - Calderan Cradle
-      - Hunter's Harpoon
-      - Treachery
-      - Stonescar Leviathan
-      - Combrei Healer
-      - Stronghold's Visage
-      - Call the Ancients
-      - Majestic Skies
-      - Shadowlands Bonepicker
-      - Siphon Vitality
-      - Electrostatic Distortion
-      - Highwind Glider
-      - Streetwise Informant
-      - Unseen Execution
-      - Twilight Raptor
-      - Spell Swipe
-      - Snipe
-      - Unity Within
-      - Disrupt
-      - Makeshift Barrier
-      - Tools of Oppression
+      - Evenhanded Golem
     # Behemoths of Thera reprints
       - Kennelmaster
       - Pyroknight
@@ -428,3 +336,101 @@ rules:
       - Rotorcycle
       - Travelers' Fair
       - Rumbling Contraption
+    # Battle Lines reprints
+      - Light the Fuse
+      - On the Hunt
+      - Raging Jackal
+      - Temper
+      - Urn of Choking Embers
+      - Rocketblaster
+      - Song of War
+      - Frontier Bard
+      - Refracted Sentinel
+      - Stoneshaker
+      - Warpainter
+      - Djang-li, the Misfit
+      - Wandering Forge
+      - Zuberi, Outlands Warlord
+      - Parapet Sentry
+      - Sindok, Rage Incarnate
+      - Borderlands Lookout
+      - Excavate
+      - Hesitate
+      - Scorpion
+      - Amaran Armadillo
+      - Glimpse Another Age
+      - Living Example
+      - Antique Polisher
+      - Omnivorous Vorlunk
+      - Seasoned Spelunker
+      - Kanya, Ironthorn Envoy
+      - Sandspout Mirage
+      - Strike it Rich
+      - The Praxis Arcanum
+      - Alhed, Mount Breaker
+      - Etched Monolith
+      - Drifting Drone
+      - Golem Press
+      - Siege Provisions
+      - Tax Collector
+      - Tinker Overseer
+      - Copperhall Bracers
+      - Steel-Eyed Pistoleer
+      - Unseen Commando
+      - Pistolwhip
+      - Shieldsmith
+      - Stalwart Shield
+      - Gates of Hope
+      - Lastlight Refugee
+      - Withstand
+      - New Order Watchwing
+      - Tower Shield
+      - Mischief Yeti
+      - Changeestik
+      - Kosul Huntsman
+      - Aerial Battle
+      - Cloudsnake Harrier
+      - Daring Pioneer
+      - Glacier Shaper
+      - Horde Plunderer
+      - Mirror Image
+      - Breeze Dancer
+      - Rejection
+      - Spiritward Shaman
+      - Cliffside Caretaker
+      - Ferocity of Bear
+      - Psionic Savant
+      - Snowsculptor
+      - Ghostform
+      - Spitefeeder
+      - Annihilate
+      - Devour
+      - Dreamsnatcher
+      - Mournful Deathcap
+      - Rapid Shot
+      - Vizier's Tablet
+      - Xenan Destroyer
+      - Dizo's Racket
+      - Malediction
+      - The Big Wheel
+      - Pillar of Dreams
+      - Sadistic Glee
+      - Dizo's Office
+      - Nametaker
+      - Bartholo, the Seducer
+      - Bloodletter
+      - Knight-Chancellor Siraf
+      - Teryius, Martial Master
+      - Darktalon Wyvarch
+      - Diogo Málaga
+      - Collaboration
+      - Clash of Wills
+      - Howling Peak
+      - The Skycrag Six
+      - Unlock the Vault
+      - Snowcrush Animist
+      - Glorious Gathering
+      - Prism Stone
+      - Bannerman
+      - Petition
+      - Recon Tower
